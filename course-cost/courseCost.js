@@ -56,3 +56,4 @@ function courseCost(courseCode, startDateStr){
 	    amountDue : courseCost
     }
 }
+console.log(courseCost(course))
